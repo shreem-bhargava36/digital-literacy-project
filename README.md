@@ -7,7 +7,21 @@
 ------
 
 ## Project Overview 
-This project is to understand about digital literacy, including safe internet usage, communication, and importance of professional online presense.
+This project is to understand about digital literacy, including safe internet usage, communication, and importance of professional online presence as part of the CSE0001 – Digital Literacy course. The main objective of this project is to develop essential digital skills required for academic growth and professional success in today’s digital world.
+
+As a Student Digital Ambassador, this project focuses on creating awareness about digital tools, safe internet practices, professional communication, and cyber safety among students. It also aims to build a strong foundation for responsible and effective use of digital platforms.
+
+The project is divided into five tasks, each covering a different aspect of digital literacy:
+
+- **Task 1:** Creating a digital literacy awareness infographic using design tools  
+- **Task 2:** Building a professional digital portfolio on platforms like GitHub and LinkedIn  
+- **Task 3:** Exploring coding platforms and creating a Google Form for collaboration  
+- **Task 4:** Writing professional emails and understanding social media etiquette  
+- **Task 5:** Studying cybercrime awareness and creating a prevention guide  
+
+Through this project, I gained practical knowledge of various online tools and platforms. It helped me improve my technical, communication, and digital safety skills. This project also encouraged me to maintain a professional online presence and use the internet responsibly.
+
+Overall, this project serves as a complete digital literacy portfolio that reflects my learning and development as a responsible digital user.
 
  -------
 
@@ -32,15 +46,6 @@ Key Task: Drafting professional emails to professors/employers and creating a "D
 - Module 5: Cybercrime Awareness & Risk Management
 Focuses on recognizing and preventing online threats.  
 Key Task: Researching a specific cybercrime (like Phishing) and creating a safety checklist including the national helpline (1930).
------
-
-## Tasks
-
-- Task 1: Infrographic
-- Task 2: Porfolio
-- Task 3: Platforms
-- Task 4: Email Etiquette
-- Task 5: Cybercrime (Case Study)
 
 ------
 
@@ -54,7 +59,3 @@ Key Task: Researching a specific cybercrime (like Phishing) and creating a safet
 - Google form: https://forms.gle/edNg2k4QfvFFi5nf6
 - Canva Infographic: https://www.canva.com/design/DAHFPinqnz4/4PXdGZI6ckBVC6yZusFO0w/edit?utm_content=DAHFPinqnz4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - Linkedin Profile:https://www.linkedin.com/in/shreem-bhargava
-- Kaggle Profile:
-- HackerRank Profile:
-- 
-
