@@ -51,5 +51,10 @@ Key Task: Researching a specific cybercrime (like Phishing) and creating a safet
  - Gained awareness about cybercrime
 
 ## Links
-
+- Google form: https://forms.gle/edNg2k4QfvFFi5nf6
+- Canva Infographic: https://www.canva.com/design/DAHFPinqnz4/4PXdGZI6ckBVC6yZusFO0w/edit?utm_content=DAHFPinqnz4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- Linkedin Profile:https://www.linkedin.com/in/shreem-bhargava
+- Kaggle Profile:
+- HackerRank Profile:
+- 
 
